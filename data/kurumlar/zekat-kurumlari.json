@@ -1,0 +1,240 @@
+{
+  "meta": {
+    "baslik": "Dünya Genelinde Zekat ve İslami Yardım Kurumları",
+    "guncelleme": "2025-06-04",
+    "aciklama": "Zekat toplama, dağıtma ve yönetme konusunda faaliyet gösteren kurumlar, vakıflar ve dijital platformlar"
+  },
+  "kurumlar": [
+    {
+      "id": "nzf",
+      "ad": "National Zakat Foundation (UK)",
+      "tur": "Zekat Vakfı",
+      "ulkeler": ["Birleşik Krallık"],
+      "kurulus": 2008,
+      "web": "https://www.nzf.org.uk",
+      "aciklama": "Birleşik Krallık'ta yaşayan Müslümanların zekatlarını yerel olarak dağıtmak için kurulmuştur. Şeffaflık ve etki odaklı çalışır.",
+      "faaliyet_alanlari": ["Zekat Toplama", "Zekat Hesaplama", "Yerel Yardım", "Fakirlikle Mücadele"],
+      "dijital_arac": "Zekat hesaplama aracı",
+      "yillik_toplam": "£5M+",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "izk",
+      "ad": "İZK - İstanbul Zekat ve Kardeşlik Vakfı",
+      "tur": "Zekat Vakfı",
+      "ulkeler": ["Türkiye", "İstanbul"],
+      "kurulus": 2015,
+      "web": "https://izk.org.tr",
+      "aciklama": "Türkiye'de zekat bilincini yaygınlaştırmak ve zekatları şeffaf şekilde dağıtmak için kurulmuş vakıf.",
+      "faaliyet_alanlari": ["Zekat Hesaplama", "Zekat Dağıtımı", "Kardeşlik Projeleri", "Eğitim"],
+      "guncel_durum": "Aktif",
+      "dijital_platform": "zk.org.tr"
+    },
+    {
+      "id": "tdv",
+      "ad": "TDV - Türkiye Diyanet Vakfı",
+      "tur": "Vakıf",
+      "ulkeler": ["Türkiye"],
+      "kurulus": 1975,
+      "web": "https://tdv.org",
+      "aciklama": "Diyanet İşleri Başkanlığı ile işbirliği içinde zekat, fitre, kurban ve bağış toplama faaliyetleri yürütür.",
+      "faaliyet_alanlari": ["Zekat", "Kurban", "Fitre", "Eğitim Bursu", "Yurt Dışı Yardım"],
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "zakat-foundation-america",
+      "ad": "Zakat Foundation of America",
+      "tur": "Zekat Vakfı",
+      "ulkeler": ["Amerika Birleşik Devletleri"],
+      "kurulus": 2001,
+      "web": "https://www.zakat.org",
+      "aciklama": "ABD merkezli, dünya genelinde zekat dağıtımı yapan kuruluş. Afet yardımı, eğitim ve sağlık projeleri.",
+      "faaliyet_alanlari": ["Zekat", "Afet Yardımı", "Eğitim", "Sağlık", "Su Kuyusu"],
+      "yillik_butce": "$25M+",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "islamic-relief",
+      "ad": "Islamic Relief Worldwide",
+      "tur": "İnsani Yardım Kuruluşu",
+      "ulkeler": ["Birleşik Krallık"],
+      "kurulus": 1984,
+      "web": "https://www.islamic-relief.org",
+      "aciklama": "İslami prensiplerle dünya genelinde insani yardım ve kalkınma projeleri yürüten en büyük kuruluşlardan biri. Zekat, sadaka ve bağışlarla finanse edilir.",
+      "faaliyet_alanlari": ["Zekat Yönetimi", "Acil Yardım", "Kalkınma", "Eğitim", "Sağlık", "Su ve Hijyen"],
+      "ulke_sayisi": "40+",
+      "yillik_gelir": "£100M+",
+      "guncel_durum": "Aktif",
+      "sertifikasyon": ["UN ECOSOC danışmanlık statüsü", "HİS Kodu"]
+    },
+    {
+      "id": "unhcr-islamic-philanthropy",
+      "ad": "UNHCR İslami Hayırseverlik Birimi",
+      "tur": "Birleşmiş Milletler Birimi",
+      "ulkeler": ["Birleşmiş Milletler"],
+      "kurulus": 2014,
+      "web": "https://www.unhcr.org/islamic-philanthropy",
+      "aciklama": "BM Mülteci Örgütü'nün İslami hayırseverlik birimi. Zekat ve sadaka fonlarını mülteci krizlerinde kullanır.",
+      "faaliyet_alanlari": ["Zekat Yönetimi", "Mülteci Yardımı", "Acil Durum", "Koruma"],
+      "guncel_durum": "Aktif",
+      "not": "Türkiye'de de aktif"
+    },
+    {
+      "id": "global-zakat-platform",
+      "ad": "Global Zakat Platform - Global Zekat Platformu",
+      "tur": "Dijital Platform",
+      "ulkeler": ["Dijital / Küresel"],
+      "web": "https://www.globalzakatplatform.com",
+      "aciklama": "Dünya genelinde zekat toplama ve dağıtma için merkezi dijital platform. Blokzincir tabanlı şeffaflık sunar.",
+      "faaliyet_alanlari": ["Dijital Zekat", "Blokzincir", "Şeffaflık", "Küresel Dağıtım"],
+      "teknoloji": "Blokzincir",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "baitulmaal",
+      "ad": "Baitulmaal Inc.",
+      "tur": "Zekat Kuruluşu",
+      "ulkeler": ["Amerika Birleşik Devletleri"],
+      "kurulus": 1991,
+      "web": "https://www.baitulmaal.org",
+      "aciklama": "ABD'de zekat ve sadaka toplayarak dünya genelinde dağıtan kar amacı gütmeyen kuruluş.",
+      "faaliyet_alanlari": ["Zekat", "Yetim Sponsorluğu", "Su Kuyusu", "Acil Yardım"],
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "human-appeal",
+      "ad": "Human Appeal",
+      "tur": "İnsani Yardım Kuruluşu",
+      "ulkeler": ["Birleşik Krallık"],
+      "kurulus": 1991,
+      "web": "https://humanappeal.org.uk",
+      "aciklama": "Zekat ve bağışlarla dünya genelinde yardım ve kalkınma projeleri yürüten kuruluş.",
+      "faaliyet_alanlari": ["Zekat", "Yetim", "Eğitim", "Sağlık", "Su"],
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "penabantu",
+      "ad": "Penabantu - Endonezya Zekat Platformu",
+      "tur": "Dijital Zekat Platformu",
+      "ulkeler": ["Endonezya"],
+      "web": "https://penabantu.com",
+      "aciklama": "Endonezya'nın en büyük dijital zekat platformlarından biri. Mikrofinans ile zekat dağıtımını birleştirir.",
+      "faaliyet_alanlari": ["Dijital Zekat", "Mikrofinans", "Toplumsal Kalkınma"],
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "rumah-zakat",
+      "ad": "Rumah Zakat - Endonezya",
+      "tur": "Zekat Kuruluşu",
+      "ulkeler": ["Endonezya"],
+      "kurulus": 1998,
+      "web": "https://www.rumahzakat.org",
+      "aciklama": "Endonezya'nın önde gelen zekat yönetim kuruluşlarından. Sağlık, eğitim ve ekonomi odaklı projeler.",
+      "faaliyet_alanlari": ["Zekat Toplama", "Sağlık", "Eğitim", "Ekonomik Güçlendirme"],
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "dompet-duafa",
+      "ad": "Dompet Dhuafa - Endonezya",
+      "tur": "Zekat Kuruluşu",
+      "ulkeler": ["Endonezya"],
+      "kurulus": 1993,
+      "web": "https://www.dompetdhuafa.org",
+      "aciklama": "Endonezya'nın en eski ve büyük zekat yönetim kuruluşlarından. Kapsamlı sosyal programlar.",
+      "faaliyet_alanlari": ["Zekat", "Sağlık", "Eğitim", "Ekonomi", "Afet"],
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "yelal",
+      "ad": "Yedpa Elal - Yetim Derneği",
+      "tur": "Sivil Toplum",
+      "ulkeler": ["Türkiye"],
+      "web": "https://yelal.org.tr",
+      "aciklama": "Zekat ve sadaka ile yetimlere destek sağlayan Türkiye merkezli dernek.",
+      "faaliyet_alanlari": ["Zekat", "Yetim Sponsorluğu", "Eğitim", "Aile Desteği"],
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "deniz-feneri",
+      "ad": "Deniz Feneri Derneği",
+      "tur": "Yardım Derneği",
+      "ulkeler": ["Türkiye"],
+      "kurulus": 1998,
+      "web": "https://www.denizfeneri.org.tr",
+      "aciklama": "Zekat, fitre, sadaka ve kurban bağışlarıyla ihtiyaç sahiplerine ulaşan yardım derneği.",
+      "faaliyet_alanlari": ["Zekat", "Kurban", "Gıda", "Eğitim", "Sağlık"],
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "cansuyu",
+      "ad": "Cansuyu Yardımlaşma ve Dayanışma Derneği",
+      "tur": "Yardım Derneği",
+      "ulkeler": ["Türkiye"],
+      "kurulus": 2005,
+      "web": "https://www.cansuyu.org.tr",
+      "aciklama": "Türkiye ve dünya genelinde zekat ve bağışlarla yardım faaliyeti yürüten dernek.",
+      "faaliyet_alanlari": ["Zekat", "Su Kuyusu", "Yetim", "Gıda", "Eğitim"],
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "ihh",
+      "ad": "İHH İnsani Yardım Vakfı",
+      "tur": "Yardım Vakfı",
+      "ulkeler": ["Türkiye", "İstanbul"],
+      "kurulus": 1992,
+      "web": "https://www.ihh.org.tr",
+      "aciklama": "Türkiye'nin en büyük insani yardım kuruluşlarından. Zekat, sadaka ve bağış yönetimiyle 100+ ülkede faaliyet gösterir.",
+      "faaliyet_alanlari": ["Zekat", "Kurban", "Yetim", "Afet", "Sağlık", "Eğitim", "Su"],
+      "ulke_sayisi": "100+",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "kizilay",
+      "ad": "Türk Kızılay",
+      "tur": "Yardım Kuruluşu",
+      "ulkeler": ["Türkiye"],
+      "kurulus": 1868,
+      "web": "https://www.kizilay.org.tr",
+      "aciklama": "Zekat, fitre ve bağış kabul eden, kan ve yardım faaliyetleri yürüten Türkiye'nin en köklü yardım kuruluşu.",
+      "faaliyet_alanlari": ["Zekat", "Kan Bağışı", "Afet", "Sosyal Hizmet", "Uluslararası Yardım"],
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "zakat-calculator-digital",
+      "ad": "Dijital Zekat Hesaplama Platformları",
+      "tur": "Dijital Araçlar",
+      "ulkeler": ["Küresel / Dijital"],
+      "aciklama": "nzf.org.uk, zakat.org, islamicfinder.org/zakat-calculator, zekat.io gibi platformlar üzerinden online zekat hesaplama hizmeti.",
+      "faaliyet_alanlari": ["Zekat Hesaplama", "Dijital", "Eğitim"],
+      "ornek_platformlar": ["zakat.io", "islamicfinder.org", "nzf.org.uk", "zakat.org", "zekat.io"],
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "turkiye-zekat-sistemi",
+      "ad": "Türkiye Zekat Sistemi - Dijital Dönüşüm",
+      "tur": "Dijital Platform / Kamu",
+      "ulkeler": ["Türkiye"],
+      "aciklama": "Diyanet ve vakıflar aracılığıyla dijital zekat hesaplama, bağış ve takip sistemleri. Mobil uygulamalar ve web servisleri.",
+      "faaliyet_alanlari": ["Dijital Zekat", "Mobil Uygulama", "E-Devlet Entegrasyonu"],
+      "guncel_durum": "Geliştirme Aşamasında"
+    },
+    {
+      "id": "blockchain-zakat",
+      "ad": "Blokzincir Tabanlı Zekat Platformları",
+      "tur": "FinTech / Dijital",
+      "ulkeler": ["Küresel"],
+      "aciklama": "Blokzincir teknolojisi ile zekat toplama ve dağıtımında şeffaflık ve izlenebilirlik sağlayan yenilikçi platformlar.",
+      "faaliyet_alanlari": ["Blokzincir", "Şeffaf Zekat", "Akıllı Kontrat", "DeFi"],
+      "ornekler": ["Global Zakat Platform", "ZakatChain", "Islamic Coin Zakat"],
+      "guncel_durum": "Gelişmekte"
+    }
+  ],
+  "istatistikler": {
+    "toplam_kurum": 20,
+    "turkiye_merkezli": 9,
+    "dijital_platform": 6,
+    "kuresel_kurulus": 11,
+    "yillik_zekat_potansiyeli_tahmini": "$200M-$1T (tahmini: potansiyel zekat yükümlülüğü)",
+    "gunumuzde_toplanan_zekat": "$10-15M (sadece kayıtlı kuruluşlar üzerinden)"
+  }
+}

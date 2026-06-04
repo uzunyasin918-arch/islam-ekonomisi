@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "baslik": "İslam İktisadı ve İslami Finans Alanında Önemli Konferans ve Etkinlikler",
+    "guncelleme": "2025-06-04",
+    "aciklama": "Düzenli olarak gerçekleşen ve alana yön veren başlıca akademik konferanslar, sempozyumlar ve zirveler"
+  },
+  "konferanslar": [
+    {
+      "id": "world-islamic-economics-forum",
+      "ad": "Dünya İslam Ekonomisi Forumu (WIEF)",
+      "tur": "Küresel Forum",
+      "baslangic": 2005,
+      "siklik": "Yıllık",
+      "web": "https://wief.org",
+      "aciklama": "İslam ekonomisi ve iş dünyasının en büyük küresel buluşması. Devlet başkanları, iş insanları ve akademisyenleri bir araya getirir.",
+      "son_ev_sahipleri": ["Malezya", "Endonezya", "BAE", "Katar"]
+    },
+    {
+      "id": "islamic-economics-conference-kau",
+      "ad": "Kral Abdülaziz Üniversitesi Uluslararası İslam İktisadı Konferansı",
+      "tur": "Akademik Konferans",
+      "baslangic": 1976,
+      "siklik": "2-3 yılda bir",
+      "web": "https://iei.kau.edu.sa",
+      "aciklama": "Dünyanın en eski İslam iktisadı konferansı. Alanın kurucu isimlerini bir araya getirir.",
+      "not": "İlk konferans 1976'da Mekke'de yapıldı"
+    },
+    {
+      "id": "ikam-konferansi",
+      "ad": "İKAM İslam İktisadı Konferansı",
+      "tur": "Akademik Konferans",
+      "baslangic": 2016,
+      "siklik": "Yıllık",
+      "web": "https://ikam.com.tr",
+      "aciklama": "Türkiye'de İslam iktisadı alanındaki en kapsamlı akademik konferans. İbn Haldun Üniversitesi ev sahipliğinde.",
+      "son_tema": "İslam Ekonomisi ve Sürdürülebilirlik"
+    },
+    {
+      "id": "iief-sempozyumu",
+      "ad": "İİEF İslam İktisadı ve Finansı Sempozyumu",
+      "tur": "Akademik Sempozyum",
+      "baslangic": 2015,
+      "siklik": "Yıllık",
+      "web": "https://iief.istanbul.edu.tr",
+      "aciklama": "İstanbul Üniversitesi İslam İktisadı ve Finansı Araştırma Merkezi tarafından düzenlenen sempozyum.",
+      "son_tema": "Finansal Kapsayıcılık ve İslami Finans"
+    },
+    {
+      "id": "global-islamic-finance-forum",
+      "ad": "Küresel İslami Finans Forumu (GIFF)",
+      "tur": "Sektör Zirvesi",
+      "baslangic": 2014,
+      "siklik": "Yıllık",
+      "web": "https://giff.com",
+      "aciklama": "İslami finans sektörünün en büyük iş ve yatırım zirvesi. Körfez bölgesinde düzenlenir."
+    },
+    {
+      "id": "world-islamic-banking-conference",
+      "ad": "Dünya İslami Bankacılık Konferansı",
+      "tur": "Sektör Konferansı",
+      "baslangic": 2005,
+      "siklik": "Yıllık",
+      "web": "https://www.worldislamicbanking.com",
+      "aciklama": "İslami bankacılık sektörünün küresel çaptaki en büyük konferansı."
+    },
+    {
+      "id": "aaoifi-konferansi",
+      "ad": "AAOIFI Yıllık Konferansı",
+      "tur": "Standart / Düzenleme",
+      "siklik": "Yıllık",
+      "web": "https://aaoifi.com",
+      "aciklama": "AAOIFI'nin düzenlediği, İslami finans standartları ve şer'i uyum konularında en yetkin konferans."
+    },
+    {
+      "id": "ifsb-zirvesi",
+      "ad": "IFSB İslami Finansal Hizmetler Zirvesi",
+      "tur": "Düzenleme Zirvesi",
+      "siklik": "Yıllık",
+      "web": "https://www.ifsb.org",
+      "aciklama": "Düzenleyici kurumlar ve merkez bankalarının İslami finans politikalarını tartıştığı zirve."
+    },
+    {
+      "id": "islamic-fintech-summit",
+      "ad": "İslami Fintech Zirvesi",
+      "tur": "Teknoloji / Finans",
+      "baslangic": 2020,
+      "siklik": "Yıllık",
+      "web": "https://islamicfintechsummit.com",
+      "aciklama": "İslami FinTech girişimleri, yatırımcılar ve dijital inovasyonu bir araya getiren zirve."
+    },
+    {
+      "id": "konsey-istanbul",
+      "ad": "Uluslararası İslam İktisadı ve Finansı Konseyi (İstanbul)",
+      "tur": "Akademik Konsey",
+      "baslangic": 2019,
+      "siklik": "Yıllık",
+      "aciklama": "Türkiye'den ve dünyadan İslam iktisadı akademisyenlerini bir araya getiren konsey toplantıları."
+    },
+    {
+      "id": "comcec-ekonomi",
+      "ad": "COMCEC İslam Ülkeleri Ekonomik İşbirliği Zirvesi",
+      "tur": "Hükümetlerarası Zirve",
+      "siklik": "Yıllık",
+      "web": "https://www.comcec.org",
+      "aciklama": "İslam İşbirliği Teşkilatı üyesi 57 ülkenin ekonomi bakanlarını bir araya getiren zirve."
+    },
+    {
+      "id": "helal-expo",
+      "ad": "World Helal Expo / Dünya Helal Zirvesi",
+      "tur": "Ticaret Fuarı / Zirve",
+      "baslangic": 2014,
+      "siklik": "Yıllık",
+      "web": "https://worldhalalexpo.com",
+      "aciklama": "Helal gıda, turizm, finans ve moda sektörlerini bir araya getiren küresel ticaret fuarı ve zirvesi."
+    },
+    {
+      "id": "sesric-ekonomik",
+      "ad": "SESRIC Ekonomik Araştırma Forumu",
+      "tur": "Araştırma Forumu",
+      "web": "https://www.sesric.org",
+      "aciklama": "İslam ülkelerinin ekonomik ve sosyal araştırmalarını tartışan forum."
+    }
+  ]
+}

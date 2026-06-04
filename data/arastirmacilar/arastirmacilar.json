@@ -1,0 +1,332 @@
+{
+  "meta": {
+    "baslik": "İslam İktisadı ve İslami Finans Alanında Önde Gelen Araştırmacılar",
+    "guncelleme": "2025-06-04",
+    "aciklama": "Akademik çalışmaları ve katkılarıyla alana yön veren Türk ve uluslararası araştırmacılar",
+    "kaynak": "Google Scholar, ResearchGate, üniversite profilleri, yayın veritabanları"
+  },
+  "arastirmacilar": [
+    {
+      "id": "tabakoglu-ahmet",
+      "ad": "Prof. Dr. Ahmet Tabakoğlu",
+      "ulke": "Türkiye",
+      "kurum": "Marmara Üniversitesi (Emekli)",
+      "alan": "İslam İktisadı Tarihi, Osmanlı İktisat Tarihi",
+      "dogum": 1937,
+      "onemli_eserler": [
+        "İslam İktisadına Giriş",
+        "Osmanlı Mali Tarihi",
+        "İslam ve Ekonomik Büyüme",
+        "Türkiye İktisat Tarihi"
+      ],
+      "katki": "Türkiye'de İslam İktisadı alanının kurucu isimlerinden. Osmanlı iktisat tarihi ve İslam iktisadı metodolojisi üzerine derin çalışmalar.",
+      "guncel_durum": "Emekli, aktif yayın hayatı"
+    },
+    {
+      "id": "ozsoy-ismail",
+      "ad": "Prof. Dr. İsmail Özsoy",
+      "ulke": "Türkiye",
+      "kurum": "İstanbul Üniversitesi / İİEF",
+      "alan": "İslam İktisadı, Faiz Teorisi, Zekat Ekonomisi",
+      "onemli_eserler": [
+        "Faiz Teorisi ve İslam",
+        "Zekat ve Ekonomi",
+        "İslami Finansın Temel İlkeleri"
+      ],
+      "katki": "Türkiye'de zekat ekonomisi ve faizin İslam iktisadı perspektifinden ele alınmasında öncü.",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "canbazoglu-nurullah",
+      "ad": "Doç. Dr. Nurullah Canbazoğlu",
+      "ulke": "Türkiye",
+      "kurum": "Ankara Yıldırım Beyazıt Üniversitesi",
+      "alan": "İslam İktisadı, İktisat Tarihi",
+      "onemli_eserler": [
+        "İslam İktisadı: Kavramlar ve Meseleler",
+        "Osmanlı'da İktisadi Düşünce"
+      ],
+      "katki": "İslam iktisadı kavramsal çerçevesine katkıları.",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "erturk-ali",
+      "ad": "Prof. Dr. Ali Ertürk",
+      "ulke": "Türkiye",
+      "kurum": "İstanbul Üniversitesi",
+      "alan": "İslam İktisadı, Sürdürülebilirlik",
+      "onemli_eserler": [
+        "İslam İktisadı ve Sürdürülebilir Kalkınma"
+      ],
+      "katki": "İslam iktisadı ile sürdürülebilir kalkınma arasındaki bağlantıyı kuran çalışmalar.",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "karakas-mustafa",
+      "ad": "Doç. Dr. Mustafa Karakaş",
+      "ulke": "Türkiye",
+      "kurum": "İbn Haldun Üniversitesi / İKAM",
+      "alan": "İslami Finans, Finansal Kapsayıcılık",
+      "katki": "İKAM araştırmacısı, finansal kapsayıcılık ve İslami mikrofinans çalışmaları.",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "khan-fahim",
+      "ad": "Dr. Fahim Khan",
+      "ulke": "Suudi Arabistan / Pakistan",
+      "kurum": "IRTI / Kral Abdülaziz Üniversitesi",
+      "alan": "İslami Makroekonomi, Para Politikası",
+      "onemli_eserler": [
+        "Handbook of Islamic Economics",
+        "Islamic Economics: The State of the Art"
+      ],
+      "katki": "İslam iktisadının makroekonomik boyutlarını geliştiren öncü çalışmalar.",
+      "guncel_durum": "Emekli"
+    },
+    {
+      "id": "khan-mohsin",
+      "ad": "Prof. Dr. Mohsin Khan",
+      "ulke": "Amerika Birleşik Devletleri",
+      "kurum": "Georgetown Üniversitesi / IMF (eski)",
+      "alan": "İslami Finans, Para Politikası, Makroekonomi",
+      "onemli_eserler": [
+        "Islamic Banking and Finance: A New Paradigm",
+        "Monetary Economics in Islamic Framework"
+      ],
+      "katki": "IMF'de İslami finans konularını üst düzeyde temsil eden akademisyen.",
+      "guncel_durum": "Aktif (danışmanlık)"
+    },
+    {
+      "id": "chapra-umer",
+      "ad": "Dr. M. Umer Chapra",
+      "ulke": "Suudi Arabistan (vefat: 2024)",
+      "kurum": "İslam Kalkınma Bankası / IRTI (eski)",
+      "alan": "İslam İktisadı, İslami Finans Felsefesi",
+      "onemli_eserler": [
+        "İslam'da Ekonomik Sistem ve Adalet",
+        "İslami Finans: Teori ve Pratik",
+        "The Future of Economics: An Islamic Perspective"
+      ],
+      "katki": "Modern İslam iktisadının en önemli düşünürlerinden. İslam Kalkınma Bankası'nda IRTI başdanışmanı.",
+      "guncel_durum": "Vefat etti (2024)"
+    },
+    {
+      "id": "siddiqi-mn",
+      "ad": "Prof. Dr. Mohammad Nejatullah Siddiqi",
+      "ulke": "Hindistan / ABD",
+      "kurum": "Aligarh Muslim University / Stanford (eski)",
+      "alan": "İslam İktisadı, Bankacılık, Sigorta",
+      "onemli_eserler": [
+        "Muslim Economic Thinking",
+        "Partnership and Profit-Sharing in Islamic Law",
+        "Insurance in an Islamic Economy"
+      ],
+      "katki": "İslam iktisadı alanında en çok atıf alan akademisyenlerden. Müşareke ve mudarabe üzerine temel eser.",
+      "guncel_durum": "Emekli, aktif yayın"
+    },
+    {
+      "id": "ahmed-habib",
+      "ad": "Prof. Dr. Habib Ahmed",
+      "ulke": "Suudi Arabistan / Bangladeş",
+      "kurum": "İslam Kalkınma Bankası / IRTI",
+      "alan": "İslami Finans, Sukuk, Vakıf",
+      "onemli_eserler": [
+        "Role of Zakāh and Awqāf in Poverty Reduction",
+        "Islamic Finance and Financial Inclusion"
+      ],
+      "katki": "Zekat ve vakıfların yoksullukla mücadelede kullanımı konusunda önde gelen çalışmalar.",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "iqbal-munawar",
+      "ad": "Prof. Dr. Munawar Iqbal",
+      "ulke": "Suudi Arabistan / Pakistan",
+      "kurum": "IRTI / İslam Kalkınma Bankası",
+      "alan": "İslami Bankacılık, Finansal Piyasalar",
+      "onemli_eserler": [
+        "Islamic Banking: Growth, Stagnation and Future",
+        "An Introduction to Islamic Finance"
+      ],
+      "katki": "İslami bankacılığın gelişimi ve geleceği üzerine kapsamlı analizler.",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "asker-vahid",
+      "ad": "Prof. Dr. Vahid Askeroğlu (Vahid Askari)",
+      "ulke": "Amerika Birleşik Devletleri",
+      "kurum": "Cornell Üniversitesi",
+      "alan": "İslam Ekonomisi, Kriz Yönetimi",
+      "onemli_eserler": [
+        "The Islamic Economy: A Model for Growth and Stability"
+      ],
+      "katki": "Federal Rezerv deneyimiyle İslam ekonomisi modelini modern finansla buluşturan çalışmalar.",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "atmaca-adem",
+      "ad": "Doç. Dr. Adem Atmaca",
+      "ulke": "Türkiye",
+      "kurum": "İstanbul Üniversitesi",
+      "alan": "İslami Finans, Katılım Bankacılığı",
+      "onemli_eserler": ["Katılım Bankacılığı: Temel Esaslar"],
+      "katki": "Türkiye'de katılım bankacılığı eğitimi ve araştırmaları.",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "akcan-ahmet",
+      "ad": "Doç. Dr. Ahmet Akcan",
+      "ulke": "Türkiye",
+      "kurum": "İstanbul Üniversitesi",
+      "alan": "İslami Finans, İslam İktisadı",
+      "katki": "İslam iktisadı eğitimi ve müfredat geliştirme çalışmaları.",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "gunay-bunyamin",
+      "ad": "Doç. Dr. Bünyamin Güney",
+      "ulke": "Türkiye",
+      "kurum": "Adana Alparslan Türkeş Üniversitesi",
+      "alan": "İslami Finans, Sukuk",
+      "katki": "Sukuk ve İslami sermaye piyasaları üzerine çalışmalar.",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "kaya-ercument",
+      "ad": "Dr. Ercüment Kaya",
+      "ulke": "Türkiye",
+      "kurum": "Bağımsız Araştırmacı",
+      "alan": "İslam İktisadı Felsefesi, Faiz",
+      "katki": "İslam iktisadının felsefi temelleri üzerine derinlikli çalışmalar.",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "usmani-taqi",
+      "ad": "Şeyh Muhammed Takî Usmânî",
+      "ulke": "Pakistan",
+      "kurum": "Dar'ul Ulum Karaçi / AAOIFI Şer'i Kurul Başkanı",
+      "alan": "İslam Hukuku, İslami Finans (Şer'i Danışmanlık)",
+      "onemli_eserler": [
+        "Fıkhu'l Bühûr (İslami Ticaret Hukuku)",
+        "The Historical Judgment on Interest",
+        "Sukuk and Their Contemporary Issues"
+      ],
+      "katki": "AAOIFI Şer'i standartlarının başkanı. Sukuk konusundaki fıkhi çalışmalarıyla küresel İslami finansın yönünü belirlemiş din alimi.",
+      "guncel_durum": "Aktif (90+ yaş)"
+    },
+    {
+      "id": "qaradawi-yusuf",
+      "ad": "Prof. Dr. Yusuf El-Kardâvî",
+      "ulke": "Katar (vefat: 2022)",
+      "kurum": "Katar Üniversitesi, İslami Finans Merkezi",
+      "alan": "Fıkıh, Zekat, İslam Ekonomisi",
+      "onemli_eserler": [
+        "Zekat Fıkhı (2 cilt)",
+        "İslam'da Helal ve Haram"
+      ],
+      "katki": "Zekat fıkhı konusunda modern dönemin en kapsamlı eserini yazmıştır.",
+      "guncel_durum": "Vefat (2022)"
+    },
+    {
+      "id": "elci-adnan",
+      "ad": "Prof. Dr. Adnan Elci",
+      "ulke": "Türkiye",
+      "kurum": "İbn Haldun Üniversitesi",
+      "alan": "İslam İktisadı, Eğitim",
+      "katki": "İKAM direktörü, alanın kurumsallaşmasına katkı.",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "yilmaz-m-hasan",
+      "ad": "Doç. Dr. M. Hasan Yılmaz",
+      "ulke": "Türkiye",
+      "kurum": "İbn Haldun Üniversitesi",
+      "alan": "İslami Finans, Bankacılık",
+      "katki": "Katılım bankacılığı verimliliği ve performansı üzerine çalışmalar.",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "alpay-savas",
+      "ad": "Prof. Dr. Savaş Alpay",
+      "ulke": "Türkiye",
+      "kurum": "SESRIC",
+      "alan": "İslam Ekonomisi, İstatistik",
+      "katki": "İİT üyesi ülkelerin ekonomik istatistikleri ve kapasite geliştirme.",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "kuran-timur",
+      "ad": "Prof. Dr. Timur Kuran",
+      "ulke": "Amerika Birleşik Devletleri / Türkiye",
+      "kurum": "Duke University",
+      "alan": "İslam Ekonomisi Tarihi, İktisat Tarihi, Kurumsal İktisat",
+      "onemli_eserler": [
+        "The Long Divergence: How Islamic Law Held Back the Middle East",
+        "Islam and Mammon: The Economic Predicaments of Islamism"
+      ],
+      "katki": "İslam ekonomisi, Ortadoğu iktisat tarihi ve kurumlar ekonomisi alanında dünya çapında etki. Eleştirel perspektifiyle tanınır.",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "ozcan-binler",
+      "ad": "Prof. Dr. Biner Özcan",
+      "ulke": "Türkiye",
+      "kurum": "Marmara Üniversitesi",
+      "alan": "İslami Sigorta (Tekafül)",
+      "katki": "Tekafül sistemi ve İslami sigorta modelleri üzerine öncü çalışmalar.",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "guvel-enver",
+      "ad": "Doç. Dr. Enver Güvel",
+      "ulke": "Türkiye",
+      "kurum": "İstanbul Üniversitesi",
+      "alan": "İslam İktisadı, Sürdürülebilirlik",
+      "katki": "İslam iktisadı ve sürdürülebilir kalkınma bağlantısı üzerine çalışmalar.",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "saiti-yusuf",
+      "ad": "Yusuf Saiti",
+      "ulke": "Türkiye / Malezya",
+      "kurum": "İstanbul Üniversitesi / INCEIF",
+      "alan": "İslami Finans, Katılım Bankacılığı",
+      "katki": "Malezya ve Türkiye arasında karşılaştırmalı İslami finans çalışmaları.",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "kamaruddin-azhar",
+      "ad": "Azhar Kamaruddin",
+      "ulke": "Malezya",
+      "kurum": "Bank Negara Malaysia / IFSB",
+      "alan": "İslami Finans Politikaları, Düzenleme",
+      "katki": "Malezya merkez bankasında İslami finans politikalarının geliştirilmesi.",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "bello-sani",
+      "ad": "Yaşar Sani Bello",
+      "ulke": "Nijerya",
+      "kurum": "Lotus Bank",
+      "alan": "İslami Mikrofinans, Kapsayıcı Bankacılık",
+      "katki": "Nijerya'da ilk tam kapsamlı İslami bankalardan Lotus'un kurucusu.",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "zaman-asar",
+      "ad": "Dr. Asar Zaman",
+      "ulke": "Pakistan",
+      "kurum": "Karachi Üniversitesi",
+      "alan": "İslami Finans, Sukuk, Yatırım",
+      "katki": "Pakistan sukuk piyasasının gelişimine katkı.",
+      "guncel_durum": "Aktif"
+    }
+  ],
+  "istatistikler": {
+    "toplam_arastirmaci": 27,
+    "turkiyeli": 16,
+    "kuresel": 11,
+    "kurucu_nesil": 5,
+    "aktif_calisan": 20,
+    "vefat_eden": 3
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "baslik": "İslam Ekonomisi Perspektifinden Sürdürülebilirlik Projeleri",
+    "guncelleme": "2025-06-04",
+    "aciklama": "Dünya genelinde İslami prensiplerle sürdürülebilir kalkınma, çevre ve sosyal yardım amaçlı projeler"
+  },
+  "projeler": [
+    {
+      "id": "yesil-sukuk-malezya",
+      "ad": "Malezya Yeşil Sukuk Programı",
+      "tur": "Sürdürülebilir Finans",
+      "ulke": "Malezya",
+      "baslangic": 2017,
+      "web": "https://www.sc.com.my/sustainable",
+      "aciklama": "Malezya Sermaye Piyasası Kurulu öncülüğünde başlatılan sürdürülebilir sukuk çerçevesi. Yeşil projelere fon sağlamak için sukuk ihracını teşvik eder.",
+      "kapsam": "Yenilenebilir enerji, atık yönetimi, temiz ulaşım, yeşil binalar",
+      "hacim": "$5B+ (yeşil/sürdürülebilir sukuk ihraçları)",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "isdb-sdgs",
+      "ad": "İslam Kalkınma Bankası Sürdürülebilir Kalkınma Hedefleri Programı",
+      "tur": "Kalkınma Programı",
+      "ulke": "Küresel (57 üye ülke)",
+      "baslangic": 2016,
+      "web": "https://www.isdb.org",
+      "aciklama": "İsDB'nin BM Sürdürülebilir Kalkınma Hedefleri'ne (SDG) uyumlu projeleri. 5 temel alan: yoksulluğu sonlandırma, sağlık, eğitim, altyapı, iklim.",
+      "kapsam": "SDG uyumlu projeler, yeşil altyapı, sosyal kalkınma",
+      "hacim": "$50B+ (yıllık taahhüt)",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "yesil-vakif-turkiye",
+      "ad": "Türkiye Yeşil Vakıf ve Çevre Projeleri",
+      "tur": "Sürdürülebilirlik",
+      "ulke": "Türkiye",
+      "aciklama": "Türkiye'de İslami değerlerle çevre koruma projeleri. Vakıf sistemiyle sürdürülebilir orman, su ve enerji yatırımları. Sadaka-i cariye olarak ağaç dikimi, su kuyusu.",
+      "kapsam": "Ağaçlandırma, su kaynakları, geri dönüşüm, sıfır atık",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "akhuwat-microfinance",
+      "ad": "Akhuwat İslami Mikrofinans (Pakistan)",
+      "tur": "Mikrofinans / Yoksullukla Mücadele",
+      "ulke": "Pakistan",
+      "baslangic": 2001,
+      "web": "https://akhuwat.org.pk",
+      "aciklama": "Dünyanın en büyük Qard Hasan (faizsiz borç) mikrofinans kuruluşu. 5 milyondan fazla aileye faizsiz kredi ulaştırmıştır. %99.9 geri ödeme oranı.",
+      "kapsam": "Faizsiz mikro kredi, eğitim, sağlık, aile güçlendirme",
+      "hacim": "PKR 60B+ (dağıtılan kredi)",
+      "yararlanan": "5M+ aile",
+      "model": "Qard Hasan, cami merkezli dağıtım",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "zakat-sdg-program",
+      "ad": "Zekat ile Sürdürülebilir Kalkınma (İsDB/UNDP Ortak Programı)",
+      "tur": "Kalkınma Ortaklığı",
+      "ulke": "Küresel",
+      "baslangic": 2019,
+      "aciklama": "UNDP, İsDB ve zekat kuruluşları ortaklığında zekat fonlarının yoksulluk, açlık ve eşitsizlikle mücadelede kullanılmasını amaçlayan program.",
+      "kapsam": "Zekat hesaplama araçları, ulusal zekat sistemleri, SDG uyumu",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "wahed-invest",
+      "ad": "Wahed Invest - Helal Dijital Yatırım Platformu",
+      "tur": "FinTech / Helal Yatırım",
+      "ulke": "ABD (Küresel)",
+      "baslangic": 2017,
+      "web": "https://www.wahed.com",
+      "aciklama": "Müslümanlar için helal robo-danışmanlık platformu. Otomatik portföy yönetimi, helal hisse senetleri, sukuk ve altın yatırımı.",
+      "kapsam": "Bireysel yatırım, emeklilik, helal portföy, robo danışmanlık",
+      "kullanici": "500,000+",
+      "hacim": "$500M+ (yönetilen varlık)",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "ekonomi-ve-ahlak-projesi",
+      "ad": "İslam İktisadı ve İş Ahlakı Projesi (İGİAD)",
+      "tur": "Sivil Toplum Projesi",
+      "ulke": "Türkiye",
+      "baslangic": 2014,
+      "web": "https://www.igiad.org.tr",
+      "aciklama": "İGİAD bünyesinde İslam iktisadı prensipleriyle uyumlu iş ahlakı standartları geliştirme, helal kazanç ve sosyal sorumluluk projesi.",
+      "kapsam": "İş ahlakı, helal ticaret, adil ücret, çevre duyarlılığı",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "bloom-zakat",
+      "ad": "Blokzincir Tabanlı Zekat Yönetim Sistemi",
+      "tur": "FinTek / Blokzincir",
+      "ulke": "Küresel",
+      "baslangic": 2022,
+      "aciklama": "Akıllı kontratlarla zekat toplama, dağıtma ve şeffaf takip sağlayan blokzincir platformu. Her kuruşun takip edilebildiği sistem.",
+      "kapsam": "Şeffaf zekat, akıllı kontrat, blockchain izlenebilirlik",
+      "guncel_durum": "Gelişmekte"
+    },
+    {
+      "id": "yesil-cami-projesi",
+      "ad": "Yeşil Cami ve Sürdürülebilir İslami Toplum Merkezleri",
+      "tur": "Çevre / Dini Yapı",
+      "ulke": "Türkiye, Almanya, UK, ABD",
+      "baslangic": 2020,
+      "aciklama": "Camilerin güneş enerjisi, yağmur suyu hasadı, enerji verimliliği, geri dönüşüm ile yeşil ve sürdürülebilir hale getirilmesi projesi.",
+      "kapsam": "Güneş paneli, su tasarrufu, sıfır atık, enerji verimliliği",
+      "guncel_durum": "Yaygınlaşıyor",
+      "ornekler": ["Cambridge Merkez Camii (UK) - yeşil cami", "Berlin İslam Merkezi"]
+    },
+    {
+      "id": "islamic-refugee-zakat",
+      "ad": "Mülteciler İçin İslami Yardım Projeleri (UNHCR + Zekat)",
+      "tur": "İnsani Yardım / Zekat",
+      "ulke": "Küresel (özellikle Suriye, Yemen, Gazze, Bangladeş)",
+      "baslangic": 2014,
+      "web": "https://www.unhcr.org/islamic-philanthropy",
+      "aciklama": "UNHCR ile İslami yardım kuruluşları işbirliğinde mültecilere nakit yardım, barınma, sağlık ve eğitim desteği. Zekat fonları kullanılır.",
+      "kapsam": "Mülteci koruma, nakit yardım, acil durum, eğitim",
+      "butce": "$50M+ (toplanan zekat)",
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "helal-tarim-projesi",
+      "ad": "Helal Tarım ve Sürdürülebilir Gıda Projeleri",
+      "tur": "Tarım / Gıda",
+      "ulke": "Türkiye, Endonezya, Malezya, Suudi Arabistan",
+      "aciklama": "İslami prensiplere uygun, helal sertifikalı, çevre dostu ve adil tarım projeleri. Organik tarım ile helal sertifikasyonun entegrasyonu.",
+      "kapsam": "Helal gıda, organik tarım, adil ticaret, gıda güvenliği",
+      "guncel_durum": "Büyüyen Sektör"
+    },
+    {
+      "id": "vakif-gayrimenkul-koruma",
+      "ad": "Vakıf Gayrimenkul Koruma ve Geliştirme Projeleri",
+      "tur": "Vakıf / Miras",
+      "ulke": "Türkiye, Körfez Ülkeleri",
+      "aciklama": "Tarihi vakıf gayrimenkullerinin restorasyonu, akar haline getirilmesi ve sürdürülebilir gelir modeliyle işletilmesi.",
+      "kapsam": "Tarihi yapı restorasyonu, akar yatırımı, kültürel miras",
+      "guncel_durum": "Aktif",
+      "turkiye_ornek": "Vakıflar Genel Müdürlüğü - tarihi yapıların ihyası"
+    },
+    {
+      "id": "islamic-sdg-investment",
+      "ad": "İslami SDG Yatırım Fonları",
+      "tur": "Sürdürülebilir Yatırım",
+      "ulke": "Küresel",
+      "baslangic": 2020,
+      "aciklama": "BM Sürdürülebilir Kalkınma Hedefleri'ne yatırım yapan İslami fonlar. Helal yatırım kriterleriyle SDG uyumlu şirketlere yatırım.",
+      "kapsam": "SDG odaklı İslami fonlar, etki yatırımı, yeşil sukuk",
+      "guncel_durum": "Gelişiyor"
+    },
+    {
+      "id": "islamic-tourism-sustainability",
+      "ad": "Helal Turizm ve Sürdürülebilirlik Projeleri",
+      "tur": "Turizm",
+      "ulke": "Türkiye, Malezya, BAE, Endonezya",
+      "aciklama": "Helal turizm tesislerinde çevre dostu uygulamalar: enerji verimliliği, su tasarrufu, helal gıda atık yönetimi, karbon nötr tesis.",
+      "kapsam": "Helal otel, yeşil tesis, çevre dostu turizm",
+      "guncel_durum": "Büyüyor"
+    },
+    {
+      "id": "ikam-akademik-projeler",
+      "ad": "İKAM İslam İktisadı Araştırma Projeleri",
+      "tur": "Akademik Araştırma",
+      "ulke": "Türkiye",
+      "baslangic": 2015,
+      "web": "https://ikam.com.tr",
+      "aciklama": "İbn Haldun Üniversitesi bünyesinde İslam iktisadı alanında politika önerileri, sektör raporları, akademik yayınlar ve veri çalışmaları.",
+      "kapsam": "Araştırma, yayın, konferans, politika notları, veritabanı",
+      "yayinlar": ["İslam İktisadı Dergisi", "Politika Notları", "Kitap Serisi", "Konferans Bildirileri"],
+      "guncel_durum": "Aktif"
+    },
+    {
+      "id": "helal-risk-fonu",
+      "ad": "Küresel Helal Risk Sermayesi Fonları",
+      "tur": "Girişim Sermayesi",
+      "ulke": "Küresel (Körfez, Malezya, Türkiye)",
+      "aciklama": "Helal teknoloji girişimlerine yatırım yapan İslami risk sermayesi fonları. Helal gıda, İslami fintech, medikal, yeşil enerji odaklı.",
+      "kapsam": "Erken aşama yatırım, büyüme sermayesi, helal inovasyon",
+      "guncel_durum": "Büyüyor",
+      "ornek_fonlar": ["Alfanar", "180 Degree Capital", "WIEF Foundation"]
+    }
+  ],
+  "istatistikler": {
+    "toplam_proje": 16,
+    "turkiye_projeleri": 5,
+    "kuresel_projeler": 11,
+    "finans_odakli": 6,
+    "cevre_odakli": 4,
+    "sosyal_odakli": 4,
+    "akademik_odakli": 1,
+    "dijital_odakli": 1
+  }
+}

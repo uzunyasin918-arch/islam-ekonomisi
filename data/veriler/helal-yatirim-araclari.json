@@ -1,0 +1,315 @@
+{
+  "meta": {
+    "baslik": "Helal Yatırım Araçları ve Servet Koruma Yöntemleri",
+    "guncelleme": "2025-06-04",
+    "aciklama": "Müslümanların helal yoldan para kazanması, biriktirmesi, koruması ve yatırım yapması için kullanılan araçlar, ürünler ve stratejiler"
+  },
+  "ana_kategoriler": [
+    "Katılım Bankacılığı Ürünleri",
+    "Sukuk (İslami Tahviller)",
+    "İslami Hisse Senedi Fonları",
+    "Helal Gayrimenkul Yatırımı",
+    "Altın ve Kıymetli Madenler",
+    "İslami Mikrofinans",
+    "Helal Girişim Sermayesi (VC)",
+    "İslami Emeklilik ve Sigorta (Tekafül)",
+    "Dijital ve Kripto Varlıklar",
+    "Vakıf ve Zekat Bazlı Yatırım"
+  ],
+  "yatirim_araclari": [
+    {
+      "id": "mudaraba",
+      "ad": "Mudarabe Sözleşmesi",
+      "kategori": "Katılım Bankacılığı",
+      "aciklama": "Emek-sermaye ortaklığı. Bir taraf sermaye (rabbü'l-mal) sağlar, diğer taraf (mudarib) emeğini ve uzmanlığını koyar. Kâr önceden belirlenen oranda paylaşılır, zarar sermaye sahibine aittir.",
+      "kullanim_alanlari": "Katılım bankaları mevduat toplama, yatırım fonları, girişim sermayesi",
+      "risk_seviyesi": "Orta-Yüksek",
+      "helal_uyum": "Tam",
+      "turkiye_ornekler": ["Katılım bankaları mudarabe hesapları"]
+    },
+    {
+      "id": "murabaha",
+      "ad": "Murabaha (Maliyet+Kâr Satışı)",
+      "kategori": "Katılım Bankacılığı",
+      "aciklama": "Maliyet artı kâr marjı ile vadeli satış. Banka malı peşin alır, müşteriye vadeli ve kârlı satar. Taksitli alışverişin İslami versiyonu.",
+      "kullanim_alanlari": "Ev finansmanı, araç finansmanı, ticaret finansmanı, mal alım satımı",
+      "risk_seviyesi": "Düşük-Orta",
+      "helal_uyum": "Tam",
+      "turkiye_ornekler": ["Katılım bankaları murabaha ürünleri"],
+      "not": "En yaygın kullanılan İslami finansman yöntemi"
+    },
+    {
+      "id": "musharaka",
+      "ad": "Müşareke (Kâr-Zarar Ortaklığı)",
+      "kategori": "Katılım Bankacılığı",
+      "aciklama": "Tarafların hem sermaye hem yönetim katkısı koyduğu ortaklık. Kâr anlaşılan oranda, zarar sermaye oranında paylaşılır.",
+      "kullanim_alanlari": "Proje finansmanı, konut finansmanı (Müşareke-Mütüvanakise), iş ortaklığı",
+      "risk_seviyesi": "Orta",
+      "helal_uyum": "Tam",
+      "turkiye_ornekler": ["Müşareke ortaklıklı konut finansmanı"]
+    },
+    {
+      "id": "sukuk",
+      "ad": "Sukuk (İslami Tahviller)",
+      "kategori": "Sermaye Piyasası",
+      "aciklama": "Faizsiz tahvil/senet. Bir varlığa veya projeye ortaklığı temsil eden sertifika. Sukuk sahibi belirli bir varlığın veya projenin nakit akışından pay alır.",
+      "kullanim_alanlari": "Devlet ve kurum borçlanması, altyapı finansmanı, proje finansmanı",
+      "risk_seviyesi": "Orta",
+      "helal_uyum": "Tam",
+      "turkiye_ornekler": ["Hazine sukuk ihraçları (kira sertifikası)", "Katılım bankası sukuk ihraçları"],
+      "kuresel_hacim": "$800B+ (2024 itibarıyla küresel sukuk piyasası)" ,
+      "ihrac_turleri": ["Devlet sukuku", "Kurumsal sukuk", "Yeşil sukuk", "Sürdürülebilir sukuk"]
+    },
+    {
+      "id": "katilim-hesabi",
+      "ad": "Katılım Hesabı (Mevduat)",
+      "kategori": "Katılım Bankacılığı",
+      "aciklama": "Katılım bankalarında mudarabe esaslı, önceden belirlenmiş faiz değil, gerçekleşen kâra katılma esasına dayalı hesap türü.",
+      "kullanim_alanlari": "Tasarruf, birikim, cari hesap",
+      "risk_seviyesi": "Düşük",
+      "helal_uyum": "Tam",
+      "turkiye_ornekler": ["Tüm katılım bankaları katılım hesapları"],
+      "getiri_mekanizmasi": "Gerçekleşen kârdan pay"
+    },
+    {
+      "id": "helal-hisse-fonu",
+      "ad": "İslami / Helal Hisse Senedi Fonları",
+      "kategori": "Sermaye Piyasası",
+      "aciklama": "Faaliyet alanı helal olan (alkol, kumar, faizsiz bankacılık dışı), finansal oranları İslami kriterlere uygun şirketlerin hisselerine yatırım yapan fonlar.",
+      "kullanim_alanlari": "Bireysel ve kurumsal hisse yatırımı, emeklilik fonları",
+      "risk_seviyesi": "Orta-Yüksek",
+      "helal_uyum": "Şer'i Danışman Onaylı",
+      "turkiye_ornekler": ["Katılım Emeklilik fonları", "İslami hisse fonları"],
+      "filtrasyon_kriterleri": ["Sektör filtresi (faiz, alkol, kumar, domuz eti, silah hariç)", "Finansal filtre (kaldıraç oranı <%30, faizli gelir <%5, ticari alacaklar <%45)"],
+      "kuresel_endeksler": ["DJIM (Dow Jones Islamic Market)", "S&P Shariah", "MSCI Islamic"]
+    },
+    {
+      "id": "helal-emeklilik",
+      "ad": "İslami / Katılım Emeklilik Sistemi",
+      "kategori": "Emeklilik",
+      "aciklama": "Faizsiz prensiplerle yönetilen bireysel emeklilik fonları. Birikimler helal yatırım araçlarında değerlendirilir.",
+      "kullanim_alanlari": "Bireysel emeklilik, uzun vadeli tasarruf, devlet katkısı",
+      "risk_seviyesi": "Orta",
+      "helal_uyum": "Tam",
+      "turkiye_ornekler": ["Katılım Emeklilik", "BES katılım fonları", "Devlet katkısı %30"],
+      "kuresel_ornekler": ["Wahed Invest (ABD)", "Sukuk+ (Malezya)"],
+      "guncel_durum": "Hızla Büyüyor"
+    },
+    {
+      "id": "tekafül",
+      "ad": "Tekafül (İslami Sigorta)",
+      "kategori": "Sigorta",
+      "aciklama": "Ortak dayanışma ve karşılıklı yardımlaşma esaslı sigorta sistemi. Faizli yatırım ve garar (belirsizlik) içermez. Fonlar helal araçlarda değerlendirilir.",
+      "kullanim_alanlari": "Hayat, sağlık, araç, konut, işletme sigortası",
+      "risk_seviyesi": "Düşük-Orta",
+      "helal_uyum": "Şer'i Danışman Onaylı",
+      "turkiye_ornekler": ["Katılım Sigorta (Neova)", "Türkiye Sigorta Tekafül"],
+      "model": "Teberru (bağış) esaslı havuz sistemi",
+      "kuresel_hacim": "$30B+"
+    },
+    {
+      "id": "helal-gayrimenkul",
+      "ad": "Helal Gayrimenkul Yatırım Fonları",
+      "kategori": "Gayrimenkul",
+      "aciklama": "Gayrimenkul ve gayrimenkul projelerine faizsiz yöntemlerle yatırım. Kira geliri ve değer artışı temelli getiri. Faizsiz finansman modelleri (Müşareke, Murabaha) kullanılır.",
+      "kullanim_alanlari": "Konut yatırımı, ticari gayrimenkul, arsa yatırımı, kira sertifikası",
+      "risk_seviyesi": "Düşük-Orta",
+      "helal_uyum": "Tam (finansman modeline bağlı)",
+      "turkiye_ornekler": ["GYO'lar (helal portföylüler)", "Katılım bankası gayrimenkul projeleri"],
+      "not": "Altın kadar olmasa da İslam'da en çok önerilen yatırım araçlarından"
+    },
+    {
+      "id": "altin-ziynet",
+      "ad": "Altın ve Kıymetli Madenler (İslami Perspektif)",
+      "kategori": "Real Varlık",
+      "aciklama": "Altın, gümüş ve diğer kıymetli madenler. İslam'da zekat yükümlülüğüne tabi olan ve en eski helal yatırım aracı. Fiziki veya altın hesabı şeklinde.",
+      "kullanim_alanlari": "Uzun vadeli tasarruf, enflasyon koruması, zekat yükümlülüğü",
+      "risk_seviyesi": "Düşük-Orta",
+      "helal_uyum": "Tam (fiziki altın tartışmasız, altın hesabı fıkhen tartışmalı)",
+      "turkiye_ornekler": ["Katılım bankaları altın hesapları", "Kuyumcu altın alım-satım"],
+      "not": "2.5% zekat yükümlülüğü vardır",
+      "fıkhi_not": "Altının vadeli satışı (selem hariç) caiz değildir; peşin ve fiziki teslim esastır"
+    },
+    {
+      "id": "helal-vc",
+      "ad": "Helal Girişim Sermayesi (İslami VC)",
+      "kategori": "Girişim Yatırımı",
+      "aciklama": "Mudarabe ve Müşareke esaslı girişim yatırımı. Helal sektörlerde (helal gıda, İslami fintech, medikal, yeşil enerji) faaliyet gösteren girişimlere yatırım.",
+      "kullanim_alanlari": "Startup yatırımı, ölçeklendirme, teknoloji",
+      "risk_seviyesi": "Yüksek",
+      "helal_uyum": "Tam (sektör seçimi ile)",
+      "turkiye_ornekler": ["Sektör bazında helal VC fonları"],
+      "kuresel_ornekler": ["WIEF Foundation (Malezya)", "Alfanar (Körfez)"]
+    },
+    {
+      "id": "helal-mikrofinans",
+      "ad": "İslami Mikrofinans (Qard Hasan, Mikro-Murabaha)",
+      "kategori": "Mikrofinans",
+      "aciklama": "Faizsiz mikro kredi. Qard Hasan (güzel borç) ile mikro krediler veya mikro murabaha ile ihtiyaç finansmanı. Yoksullukla mücadele ve girişimcilik desteği.",
+      "kullanim_alanlari": "Küçük girişimci finansmanı, tarım desteği, esnaf finansmanı",
+      "risk_seviyesi": "Orta",
+      "helal_uyum": "Tam",
+      "turkiye_ornekler": ["İGİAD mikro finans projeleri", "Sivil toplum kefalet sistemi"],
+      "kuresel_ornekler": ["Akhuwat (Pakistan) - $1B+ dağıtılan Qard Hasan", "Grameen modeli İslami versiyonları (Bangladeş)"]
+    },
+    {
+      "id": "helal-finans-dijital",
+      "ad": "Helal FinTech ve Dijital Yatırım Platformları",
+      "kategori": "Dijital",
+      "aciklama": "İslami prensiplerle çalışan dijital finans platformları. Helal yatırım danışmanlığı, robo-advisor, dijital katılım bankacılığı.",
+      "kullanim_alanlari": "Dijital yatırım, otomatik portföy yönetimi, İslami robo danışmanlık",
+      "risk_seviyesi": "Değişken",
+      "helal_uyum": "Ürüne bağlı",
+      "kuresel_ornekler": ["Wahed Invest (ABD)", "Zoya (ABD/helal hisse filtreleme)", "IslamicFinanceGuru (İngiltere)", "Aghaz (Pakistan)"],
+      "turkiye_ornekler": ["Katılım bankaları dijital bankacılık", "Altın hesabı mobil uygulamaları"],
+      "guncel_durum": "Hızla Büyüyor"
+    },
+    {
+      "id": "kripto-helal",
+      "ad": "Kripto Varlıklar ve İslami Uyum",
+      "kategori": "Dijital Varlık",
+      "aciklama": "Kripto paraların İslami uyumu konusu tartışmalıdır. Şer'i danışmanlık kurulları bazı kriptoları (ör: Bitcoin, Ethereum) helal kabul ederken, bazılarını (faizli DeFi, şans oyunu token'ları) haram sayar.",
+      "kullanim_alanlari": "Alternatif yatırım, dijital varlık saklama, İslami kripto projeleri",
+      "risk_seviyesi": "Çok Yüksek",
+      "helal_uyum": "Tartışmalı (kriptoya göre değişir)",
+      "helal_kripto_ornekler": ["Islamic Coin", "CAIZcoin", "Sukukcoin", "X8X"],
+      "fıkhi_görüşler": [
+        "Bitcoin helaldir (Şeyh Muhammed Ebu Züheyr - 2023)",
+        "Kripto paralar caiz değildir (Diyanet - spekülasyon ve şeffaflık sorunu)",
+        "Kripto paralar emtia/para statüsüyle helal olabilir (JAIOA görüşü)"
+      ],
+      "guncel_durum": "Dünya genelinde İslami kripto fonları kuruluyor"
+    },
+    {
+      "id": "vakif-yatirimi",
+      "ad": "Vakıf Bazlı Yatırım ve Kalkınma Modelleri",
+      "kategori": "Vakıf / Sosyal Yatırım",
+      "aciklama": "Vakıf yoluyla toplanan fonların akar/gelir getiren gayrimenkullere yatırılması. Klasik Osmanlı vakıf sistemi örnek alınarak vakıf sermayesinin korunması ve büyütülmesi.",
+      "kullanim_alanlari": "Eğitim, sağlık, sosyal hizmet finansmanı, kentsel dönüşüm",
+      "risk_seviyesi": "Düşük-Orta",
+      "helal_uyum": "Tam",
+      "turkiye_ornekler": ["Mazman Vakfı, İlim Yayma Vakfı, Ensar Vakfı akar yönetimleri"],
+      "kuresel_ornekler": ["Awqaf (Kuveyt)", "UK Islamic Mission vakıf yatırımları"]
+    },
+    {
+      "id": "yesil-sukuk",
+      "ad": "Yeşil Sukuk ve Sürdürülebilir İslami Finans",
+      "kategori": "Sürdürülebilirlik",
+      "aciklama": "Çevre dostu projeleri finanse eden sukuk türü. İklim değişikliği, yenilenebilir enerji, sürdürülebilir tarım, atık yönetimi projeleri. İslam'ın çevre koruma prensipleriyle uyumlu.",
+      "kullanim_alanlari": "Yeşil enerji, su yönetimi, sürdürülebilir altyapı, karbon azaltımı",
+      "risk_seviyesi": "Orta",
+      "helal_uyum": "Tam",
+      "kuresel_ornekler": ["Malezya Yeşil Sukuk ihraçları", "İsDB Yeşil Sukuk", "Endonezya yeşil sukuk"],
+      "turkiye_durum": "Gelişmekte",
+      "hacim": "$10B+ (küresel yeşil sukuk piyasası)"
+    },
+    {
+      "id": "helal-emtia",
+      "ad": "İslami Emtia Yatırımı",
+      "kategori": "Real Varlık",
+      "aciklama": "Helal emtialara (petrol, doğal gaz, değerli metaller, tarım ürünleri) İslami kurallara uygun şekilde yatırım. Türev ürünlerden (vadeli işlem, opsiyon) kaçınılır. Peşin veya peşin+teslim esası.",
+      "kullanim_alanlari": "Çeşitlendirme, enflasyon koruması, kurumsal yatırım",
+      "risk_seviyesi": "Orta",
+      "helal_uyum": "Peşin alım-satım helal, vadeli spekülasyon tartışmalı"
+    },
+    {
+      "id": "helal-bono",
+      "ad": "Selem ve İstisna Sözleşmeleri",
+      "kategori": "Alternatif Finansman",
+      "aciklama": "Selem: Peşin ödenen bedelle gelecekte teslim edilmek üzere mal alımı. İstisna: Belirli bir ürünün imalatı için sipariş sözleşmesi. Her ikisi de İslam'da caiz olan özel sözleşme türleri.",
+      "kullanim_alanlari": "Tarım finansmanı (selem), inşaat finansmanı (istisna), imalat",
+      "risk_seviyesi": "Orta",
+      "helal_uyum": "Tam (belirli şartlarda)"
+    },
+    {
+      "id": "helal-kefalet",
+      "ad": "Kefalet ve İslami Garanti Sistemleri",
+      "kategori": "Finansal Güvence",
+      "aciklama": "Karşılıklı kefalet ve dayanışma esasına dayalı garantiler. Kefalet ücreti faiz olmadığı sürece caizdir. KOBI finansmanında kullanılır.",
+      "kullanim_alanlari": "KOBİ kefalet sistemi, kredi garanti fonları",
+      "risk_seviyesi": "Düşük",
+      "helal_uyum": "Tam (ücretsiz kefalet) / Tartışmalı (ücretli kefalet)",
+      "turkiye_ornekler": ["KGF (Kredi Garanti Fonu) - İslami versiyonlar"]
+    }
+  ],
+  "servet_koruma_stratejileri": [
+    {
+      "strateji": "Portföy Çeşitlendirme",
+      "aciklama": "Farklı varlık sınıflarına (altın, gayrimenkul, helal hisse, sukuk, katılım hesabı) yatırım yaparak risk dağıtma.",
+      "islami_uyum": "Tam",
+      "tavsiye_edilen_oranlar": "%30 Gayrimenkul, %25 Helal Hisse, %20 Altın, %15 Sukuk/Katılım, %10 Likit"
+    },
+    {
+      "strateji": "Zekat Yönetimi",
+      "aciklama": "Zekatı doğru hesaplamak ve zamanında vermek, hem manevi hem maddi arınma sağlar. Dijital zekat hesaplama araçları kullanılabilir.",
+      "islami_uyum": "Tam (Farz)",
+      "orani": "%2.5 (kameri yıl)" 
+    },
+    {
+      "strateji": "Enflasyondan Korunma",
+      "aciklama": "Altın, gayrimenkul ve emtia gibi reel varlıklara yatırım yaparak nakit paranın enflasyon karşısında erimesini önleme.",
+      "islami_uyum": "Tam",
+      "not": "Faiz yasak olduğundan enflasyon koruması reel varlıklarla yapılır"
+    },
+    {
+      "strateji": "Borçsuz Yaşam",
+      "aciklama": "Mümkün olduğunca faizsiz de olsa borçlanmamak ve öz kaynakla yatırım yapmak. İslam borçlanmayı değil, öz sermayeyi teşvik eder.",
+      "islami_uyum": "Tam (Müstehap)"
+    },
+    {
+      "strateji": "Vakıf ve Sadaka-i Cariye",
+      "aciklama": "Malın bir kısmını vakfederek hem ahiret yatırımı yapmak hem de dünyada malı korumak. Vakıf malı dokunulmaz ve kalıcıdır.",
+      "islami_uyum": "Tam (Müstehap)",
+      "ornekler": ["Su kuyusu, eğitim kurumu, cami vakfı, akar/kira getiren gayrimenkul vakfı"]
+    },
+    {
+      "strateji": "Helal Vefat Planlaması",
+      "aciklama": "İslami miras hukukuna göre vasiyet ve veraset planlaması. Üçte bir kuralı, mirasçılar arası adalet ve tekafül ile desteklenmiş bir plan.",
+      "islami_uyum": "Tam (Farz)"
+    },
+    {
+      "strateji": "İslami Varlık Yönetimi İlkeleri",
+      "aciklama": "Likidite, kârlılık ve helallik dengesini gözetmek. Kısa vadeli spekülasyon ve aşırı riskten kaçınmak.",
+      "islami_uyum": "Tam",
+      "kaynak": "İslami finans literatürü, AAOIFI standartları"
+    }
+  ],
+  "helal_yatirim_filtreleme_kriterleri": {
+    "sektor_filtresi": [
+      "Faiz esaslı finansal hizmetler (geleneksel banka, sigorta)",
+      "Alkol üretimi ve dağıtımı",
+      "Kumar ve şans oyunları",
+      "Domuz eti ve domuz ürünleri",
+      "Silah ve savunma (tartışmalı, amaç ve kullanıma göre değişir)",
+      "Tütün",
+      "Eğlence (müzik, film, yetişkin içerik)",
+      "Helal olmayan gıda ürünleri"
+    ],
+    "finansal_filtreler": [
+      "Toplam borç / Toplam varlıklar < %30-33",
+      "Faizli gelir / Toplam gelir < %5",
+      "Ticari alacaklar / Toplam varlıklar < %45-50"
+    ],
+    "standart_belirleyiciler": ["AAOIFI", "DJIM (Dow Jones Islamic Market)", "S&P Shariah Indices", "MSCI Islamic"],
+    "not": "Filtreleme standartlarında hafif farklılıklar olabilir (AAOIFI, DJIM, MSCI arasında)"
+  },
+  "turkiye_ozel_notlar": {
+    "katilim_bankaciligi_mevduat_payi": "%15-20 (Türkiye toplam bankacılık sektörü)",
+    "katilim_bankalari": ["Albaraka Türk", "Kuveyt Türk", "Ziraat Katılım", "Vakıf Katılım", "Emlak Katılım", "Türkiye Finans"],
+    "yesil_sukuk_durum": "Henüz gelişmekte olan alan",
+    "katilim_emeklilik": "BES'te katılım fonlarının payı artıyor",
+    "dijital_helal_finans": "Mobil bankacılık ve FinTech girişimleri büyüyor",
+    "devlet_politikalari": "Cumhurbaşkanlığı Finans Ofisi İstanbul Finans Merkezi hedefi, katılım finans stratejisi",
+    "sivil_insiyatifler": "İKAM, İGİAD, TKBB, gönüllü zekat kuruluşları"
+  },
+  "istatistikler": {
+    "kuresel_islami_finans_varliklari": "$4-5 Trilyon (2025 tahmini)",
+    "turkiye_katilim_bankaciligi_varliklari": "₺1.5 Trilyon+",
+    "kuresel_sukuk_piyasasi": "$800B+",
+    "helal_yatirim_fonu_sayisi": "600+ küresel çapta",
+    "tekafül_hacmi": "$30B+",
+    "yesil_sukuk_payi": "$10B+ ve hızla büyüyor",
+    "helal_fintech_pazari": "$2-3B ve hızla büyüyor",
+    "zekat_potansiyeli": "$200B-$1T (tahmini), toplanan $10-15B"
+  }
+}

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İslam İktisadı Veri Projesi</title>
+    <link rel="stylesheet" href="/web/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📊 İslam İktisadı Veri Projesi</h1>
+            <p class="subtitle">İslam Ekonomisi, Helal Yatırım, Zekat ve Sürdürülebilirlik Veritabanı</p>
+            <p class="tagline">"Helal yoldan kazan, koru ve yatırım yap"</p>
+        </header>
+
+        <nav class="tabs">
+            <button class="tab-btn active" data-tab="kurumlar">🏛️ Kurumlar</button>
+            <button class="tab-btn" data-tab="zekat">💰 Zekat</button>
+            <button class="tab-btn" data-tab="yatirim">📈 Helal Yatırım</button>
+            <button class="tab-btn" data-tab="surdurulebilirlik">🌱 Sürdürülebilirlik</button>
+            <button class="tab-btn" data-tab="arastirmacilar">👨‍🔬 Araştırmacılar</button>
+            <button class="tab-btn" data-tab="terminoloji">📖 Sözlük</button>
+        </nav>
+
+        <section id="kurumlar" class="tab-content active">
+            <h2>🏛️ İslami Finans ve İktisat Kurumları</h2>
+            <div class="grid" id="kurumlar-grid"></div>
+        </section>
+
+        <section id="zekat" class="tab-content">
+            <h2>💰 Zekat Kurumları ve Platformları</h2>
+            <div class="grid" id="zekat-grid"></div>
+        </section>
+
+        <section id="yatirim" class="tab-content">
+            <h2>📈 Helal Yatırım Araçları</h2>
+            <p class="section-desc">Müslümanların helal yoldan para kazanması, biriktirmesi ve yatırım yapması için kullanılan araçlar</p>
+            <div class="grid" id="yatirim-grid"></div>
+        </section>
+
+        <section id="surdurulebilirlik" class="tab-content">
+            <h2>🌱 Sürdürülebilirlik Projeleri</h2>
+            <div class="grid" id="surdurulebilirlik-grid"></div>
+        </section>
+
+        <section id="arastirmacilar" class="tab-content">
+            <h2>👨‍🔬 Araştırmacılar</h2>
+            <div class="grid" id="arastirmacilar-grid"></div>
+        </section>
+
+        <section id="terminoloji" class="tab-content">
+            <h2>📖 İslam İktisadı Sözlüğü</h2>
+            <div class="search-box">
+                <input type="text" id="terminoloji-search" placeholder="Terim ara...">
+            </div>
+            <div class="grid" id="terminoloji-grid"></div>
+        </section>
+
+        <footer>
+            <p>İslam İktisadı Araştırma ve Veri Projesi | Güncel verilerle düzenli olarak güncellenmektedir</p>
+        </footer>
+    </div>
+    <script src="/web/js/app.js"></script>
+</body>
+</html>

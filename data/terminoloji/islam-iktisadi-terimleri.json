@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "baslik": "İslam İktisadı ve İslami Finans Temel Terimler Sözlüğü",
+    "guncelleme": "2025-06-04",
+    "aciklama": "İslam iktisadı, faizsiz bankacılık ve İslami finans alanındaki temel kavramlar, Arapça-Türkçe-İngilizce karşılıklarıyla"
+  },
+  "terimler": [
+    {
+      "terim": "Riba",
+      "arapca": "الربا",
+      "ingilizce": "Usury / Interest",
+      "anlami": "Faiz. İslam hukukunda kesin olarak yasaklanan, borç veya ticarette fazlalık/artış. Kuran'da en şiddetli yasaklardan biri.",
+      "turu": "Yasak (Haram)",
+      "kaynak": "Bakara 275-279, Al-i İmran 130"
+    },
+    {
+      "terim": "Zekat",
+      "arapca": "الزكاة",
+      "ingilizce": "Obligatory Alms / Purification Dues",
+      "anlami": "Malın üzerinden bir kameri yıl geçmiş, nisab miktarına ulaşmış malların %2.5'inin belirli sınıflara verilmesi. İslam'ın 5 şartından biri.",
+      "turu": "Farz",
+      "oran": "%2.5 (nakit/ticaret) / %5-10 (tarım) / %20 (maden)",
+      "kaynak": "Tevbe 60, Bakara 267"
+    },
+    {
+      "terim": "Mudarabe",
+      "arapca": "المضاربة",
+      "ingilizce": "Profit-Sharing Partnership / Silent Partnership",
+      "anlami": "Emek-sermaye ortaklığı. Bir taraf sermaye (rabbü'l-mal) sağlar, diğer taraf (mudarib) işletir. Kâr anlaşılan oranda paylaşılır, zarar sermaye sahibine aittir.",
+      "turu": "Caiz (Meşru Sözleşme)",
+      "kullanim": "Katılım hesapları, yatırım fonları, girişim sermayesi"
+    },
+    {
+      "terim": "Murabaha",
+      "arapca": "المرابحة",
+      "ingilizce": "Cost-Plus Sale / Mark-up Sale",
+      "anlami": "Maliyet artı belirlenmiş kar marjı ile vadeli satış. Banka/aracı önce malı satın alır, sonra kar marjı ekleyerek müşteriye vadeli satar.",
+      "turu": "Caiz",
+      "kullanim": "En yaygın İslami finansman yöntemi. Ev, araç, emtia alımında kullanılır."
+    },
+    {
+      "terim": "Müşareke",
+      "arapca": "المشاركة",
+      "ingilizce": "Joint Venture / Partnership",
+      "anlami": "Tarafların hem sermaye hem yönetim koyduğu ortaklık. Kâr anlaşılan oranda, zarar sermaye katkısı oranında paylaşılır.",
+      "turu": "Caiz",
+      "kullanim": "Proje finansmanı, konut finansmanı (Müşareke-Mütüvanakise)"
+    },
+    {
+      "terim": "Sukuk",
+      "arapca": "الصكوك",
+      "ingilizce": "Islamic Bonds / Investment Certificates",
+      "anlami": "Faizsiz tahvil/senet. Bir varlığa veya projeye ortaklığı temsil eden sertifika. Varlığa dayalı olup düzenli nakit akışı sağlar.",
+      "turu": "Caiz",
+      "turleri": ["İcara Sukuk", "Müşareke Sukuk", "Mudarabe Sukuk", "Salam Sukuk", "İstisna Sukuk", "Vekalet Sukuk", "Yeşil Sukuk"],
+      "kullanim": "Devlet ve kurum borçlanması, altyapı finansmanı"
+    },
+    {
+      "terim": "Tekafül",
+      "arapca": "التكافل",
+      "ingilizce": "Islamic Insurance / Mutual Guarantee",
+      "anlami": "Karşılıklı dayanışma ve yardımlaşma esaslı sigorta. Katılımcıların primleri bir havuzda toplanır, zarar halinde bu havuzdan ödeme yapılır.",
+      "turu": "Caiz",
+      "kullanim": "Hayat, sağlık, araç, konut sigortası"
+    },
+    {
+      "terim": "Qard Hasan",
+      "arapca": "القرض الحسن",
+      "ingilizce": "Benevolent Loan / Interest-Free Loan",
+      "anlami": "Güzel borç. Faizsiz, karşılıksız verilen borç. Sadece ana paranın geri ödenmesi gerekir. En faziletli borç verme şekli.",
+      "turu": "Müstehap (Tavsiye Edilen)",
+      "kullanim": "Mikrofinans, ihtiyaç sahibine destek, kardeşlik ekonomisi"
+    },
+    {
+      "terim": "Selem",
+      "arapca": "السلم",
+      "ingilizce": "Forward Sale / Advanced Purchase",
+      "anlami": "Peşin bedelle gelecekte teslim edilmek üzere mal alımı. Parası peşin, malı vadeli olan bir satış türü. İslam'da caiz olan istisnai vadeli işlem.",
+      "turu": "Caiz",
+      "kullanim": "Tarım finansmanı, hammadde alımı"
+    },
+    {
+      "terim": "İstisna",
+      "arapca": "الاستصناع",
+      "ingilizce": "Manufacturing Contract / Commission to Manufacture",
+      "anlami": "Bir ürünün imalatı için verilen sipariş sözleşmesi. Ödeme peşin veya taksitli olabilir, teslim gelecekte.",
+      "turu": "Caiz",
+      "kullanim": "İnşaat, gemi yapımı, makine imalatı"
+    },
+    {
+      "terim": "İcara",
+      "arapca": "الإجارة",
+      "ingilizce": "Leasing / Rental",
+      "anlami": "Bir malın veya hizmetin belirli bir bedel karşılığında kullanım hakkının devri. Kiralama işlemi. Klasik leasing.",
+      "turu": "Caiz",
+      "kullanim": "Araç, makine, ekipman, konut kiralaması"
+    },
+    {
+      "terim": "Vakıf",
+      "arapca": "الوقف",
+      "ingilizce": "Endowment / Charitable Trust",
+      "anlami": "Bir malın Allah yolunda temlik edilerek (sahipliğinin durdurularak) gelirinin hayır kurumlarına tahsis edilmesi. Medeni hukukta tüzel kişilik.",
+      "turu": "Müstehap",
+      "turleri": ["Aile Vakfı", "Hayri Vakıf", "Nakit Vakfı", "Akar Vakfı"],
+      "kullanim": "Eğitim, sağlık, din hizmetleri, sosyal yardım"
+    },
+    {
+      "terim": "Helal",
+      "arapca": "الحلال",
+      "ingilizce": "Lawful / Permissible",
+      "anlami": "İslam hukukuna göre caiz ve izin verilen şeyler. Helal yatırım, helal gıda, helal kazanç gibi kullanımları vardır.",
+      "turu": "Kavram"
+    },
+    {
+      "terim": "Haram",
+      "arapca": "الحرام",
+      "ingilizce": "Forbidden / Prohibited",
+      "anlami": "İslam hukukuna göre kesin yasaklanmış fiil ve işlemler. Faiz (riba), kumar (meyşir), aşırı belirsizlik (garar) haramdır.",
+      "turu": "Yasak"
+    },
+    {
+      "terim": "Garar",
+      "arapca": "الغرر",
+      "ingilizce": "Excessive Uncertainty / Ambiguity",
+      "anlami": "Alışverişte aşırı belirsizlik ve risk. Belirsizlik büyük olduğunda sözleşmeyi geçersiz kılar. Sigorta ve türev ürünlerde bulunabilir.",
+      "turu": "Yasak"
+    },
+    {
+      "terim": "Meyşir",
+      "arapca": "الميسر",
+      "ingilizce": "Gambling / Games of Chance",
+      "anlami": "Şans oyunları, kumar ve benzeri faaliyetler. Karşılıklı bahis, şans oyunları ve spekülatif işlemleri kapsar.",
+      "turu": "Yasak"
+    },
+    {
+      "terim": "Nisab",
+      "arapca": "النصاب",
+      "ingilizce": "Minimum Threshold for Zakat",
+      "anlami": "Zekat yükümlülüğü için gerekli asgari mal miktarı. 85 gram altın veya eşdeğeri.",
+      "turu": "Zekat Kavramı",
+      "miktar": "85 gr altın (veya değeri)"
+    },
+    {
+      "terim": "Sadaka",
+      "arapca": "الصدقة",
+      "ingilizce": "Voluntary Charity",
+      "anlami": "Allah rızası için verilen gönüllü yardım. Farz olan zekatın dışında kalan tüm bağış ve yardımlar.",
+      "turu": "Müstehap"
+    },
+    {
+      "terim": "İcma",
+      "arapca": "الإجماع",
+      "ingilizce": "Consensus of Scholars",
+      "anlami": "İslam hukukunun delillerinden biri. Müçtehit alimlerin bir konuda görüş birliğine varması. İslami finansta standartların kaynağı.",
+      "turu": "Fıkıh Usulü"
+    },
+    {
+      "terim": "Fetva",
+      "arapca": "الفتوى",
+      "ingilizce": "Legal Opinion / Fatwa",
+      "anlami": "Bir fıkıh aliminin belirli bir konuda verdiği dini hüküm. İslami finans ürünleri için şer'i danışmanlar fetva verir.",
+      "turu": "Fıkıh"
+    },
+    {
+      "terim": "Şer'i Danışma Kurulu",
+      "arapca": "هيئة الرقابة الشرعية",
+      "ingilizce": "Shariah Advisory Board / Supervisory Board",
+      "anlami": "İslami finans kurumlarının ürün ve hizmetlerinin şer'i uyumunu denetleyen bağımsız alimler kurulu.",
+      "turu": "Kurumsal Yapı",
+      "gorev": "Ürün denetimi, fetva, standart belirleme"
+    },
+    {
+      "terim": "Katılım Bankacılığı",
+      "arapca": "المصرفية الإسلامية",
+      "ingilizce": "Participation Banking / Islamic Banking",
+      "anlami": "Faizsiz bankacılık. Mevduat toplama ve kredi verme yerine mudarabe, murabaha, müşareke gibi İslami sözleşmelerle çalışan finans kurumu.",
+      "turu": "Finans Sistemi",
+      "turkiye_ozel": "Türkiye'de İslami bankalar 'Katılım Bankası' olarak adlandırılır"
+    },
+    {
+      "terim": "İslami Finans (İslami Fintech)",
+      "arapca": "التكنولوجيا المالية الإسلامية",
+      "ingilizce": "Islamic FinTech",
+      "anlami": "İslami finans prensiplerini teknolojiyle birleştiren dijital finans hizmetleri. Mobil bankacılık, robo danışmanlık, blokzincir tabanlı çözümler.",
+      "turu": "Finans Teknolojisi",
+      "guncel_durum": "Hızla Büyüyor"
+    },
+    {
+      "terim": "Yeşil Sukuk",
+      "arapca": "الصكوك الخضراء",
+      "ingilizce": "Green Sukuk / Sustainable Sukuk",
+      "anlami": "Çevre dostu projeleri finanse eden sukuk türü. Sürdürülebilir kalkınma hedefleriyle uyumlu. İslam'ın çevre koruma prensipleriyle örtüşür.",
+      "turu": "Sürdürülebilir Finans",
+      "kullanim": "Yenilenebilir enerji, su yönetimi, karbon azaltımı"
+    },
+    {
+      "terim": "İslam Ekonomisi",
+      "arapca": "الاقتصاد الإسلامي",
+      "ingilizce": "Islamic Economics",
+      "anlami": "Kuran ve sünnet prensiplerine dayalı, kaynak dağılımı, üretim, tüketim ve bölüşümü düzenleyen ekonomik sistem. Ekonomik kararları ahlaki değerlerle bütünleştirir.",
+      "turu": "Ekonomik Sistem",
+      "temel_ilkeler": ["Tevhid", "Adalet", "Hilafet", "Tazkiye", "İsraf Yasağı", "Denklik", "Dayanışma"]
+    },
+    {
+      "terim": "İslam İktisadı",
+      "arapca": "علم الاقتصاد الإسلامي",
+      "ingilizce": "Islamic Economics (as a discipline)",
+      "anlami": "İslam'ın ekonomi anlayışını bilimsel yöntemlerle inceleyen akademik disiplin. Ekonomik teoriyi İslami değerler çerçevesinde yeniden inşa eder.",
+      "turu": "Akademik Disiplin",
+      "alt_dallari": ["İslami Finans", "Zekat Ekonomisi", "Vakıf Ekonomisi", "İslami Mikrofinans", "Helal Ekonomi", "İslami Kalkınma"]
+    },
+    {
+      "terim": "Karz-ı Hasen Sandıkları",
+      "arapca": "صناديق القرض الحسن",
+      "ingilizce": "Benevolent Loan Funds",
+      "anlami": "Faizsiz borç verme esaslı dayanışma sandıkları. Toplum içinde karşılıklı yardımlaşma ile işletilen faizsiz finans havuzları.",
+      "turu": "Toplumsal Finans",
+      "turkiye_ornek": "Mahalle bazlı faizsiz borç sandıkları, dernek karz-ı hasen uygulamaları"
+    }
+  ],
+  "kategori_index": {
+    "yasaklar": ["Riba", "Garar", "Meyşir", "Haram"],
+    "sozlesmeler": ["Mudarabe", "Murabaha", "Müşareke", "Selem", "İstisna", "İcara"],
+    "finans_araclari": ["Sukuk", "Tekafül", "Katılım Bankacılığı", "Karz-ı Hasen Sandıkları"],
+    "ibadet_finans": ["Zekat", "Sadaka", "Vakıf", "Qard Hasan"],
+    "kavramlar": ["Helal", "Haram", "Nisab", "Fetva", "İcma", "İslam Ekonomisi", "İslam İktisadı"],
+    "kurumsal": ["Şer'i Danışma Kurulu", "Katılım Bankacılığı"],
+    "yeni_alanlar": ["İslami Fintech", "Yeşil Sukuk", "Helal FinTech"]
+  }
+}
